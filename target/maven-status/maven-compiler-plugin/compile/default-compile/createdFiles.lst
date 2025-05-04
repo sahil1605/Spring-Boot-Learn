@@ -1,0 +1,13 @@
+com\learntest\demo\DTO\CategoryDTO.class
+com\learntest\demo\service\CategoryService.class
+com\learntest\demo\DTO\ProductDTO.class
+com\learntest\demo\DemoApplication.class
+com\learntest\demo\mapper\CategoryMapper.class
+com\learntest\demo\Controller\ProductController.class
+com\learntest\demo\entity\Product.class
+com\learntest\demo\mapper\ProductMapper.class
+com\learntest\demo\entity\Category.class
+com\learntest\demo\Controller\CategoryController.class
+com\learntest\demo\repository\ProductRepository.class
+com\learntest\demo\repository\CategoryRepository.class
+com\learntest\demo\service\ProductService.class
